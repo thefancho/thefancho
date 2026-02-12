@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ignacio Marín
+# 👋 ¡Hola! Soy Ignacio Diaz Merino
 
 Tengo 24 años y soy **desarrollador de aplicaciones multiplataforma**.  
 Me considero una persona **organizada, trabajadora, versátil, paciente y puntual**.  
