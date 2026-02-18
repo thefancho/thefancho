@@ -17,21 +17,21 @@ Me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas.
 ## 🛠️ Tecnologías y herramientas
 
 ### 📱 Desarrollo móvil
-- **Kotlin** – Intermedio  
-- **Android Studio** – Intermedio  
-- **Jetpack Compose** – Intermedio  
+- **Kotlin**
+- **Android Studio**
+- **Jetpack Compose**
 
 ### 🖥️ Programación general
-- **Python** – Básico  
-- **JavaScript** – Básico  
-- **HTML5 y CSS** – Básico  
+- **Python**  
+- **JavaScript**  
+- **HTML5 y CSS**   
 
 ### 🗄️ Bases de datos
-- **MySQL** – Intermedio  
+- **MySQL**   
 
 ### 🛠️ Herramientas y entornos
-- **IntelliJ IDEA** – Intermedio  
-- **Administración de sistemas** – Básico  
+- **IntelliJ IDEA**   
+- **Administración de sistemas**  
 
 ---
 
