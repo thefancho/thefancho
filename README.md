@@ -37,7 +37,7 @@ Me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas.
 
 ## 📂 Proyectos destacados
 
-### 🔹 **Seart**
+### 🔹 **Seart**(https://github.com/thefancho/Seart)
 Aplicación Android tipo red social para conectar artistas con clientes.  
 Permite registro de artistas, portafolios, filtros de búsqueda y sistema de comunicación.  
 Tecnologías: Kotlin, Jetpack Compose, Firebase.
