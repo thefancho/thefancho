@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ignacio Diaz Merino
+#  ¡Hola! Soy Ignacio Diaz Merino
 
 Tengo 24 años y soy **desarrollador de aplicaciones multiplataforma**.  
 Me considero una persona **organizada, trabajadora, versátil, paciente y puntual**.  
@@ -6,43 +6,43 @@ Me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas.
 
 ---
 
-## 🧠 Sobre mí
-- 🎓 Formación en desarrollo de aplicaciones multiplataforma  
-- 💻 Experiencia con varios lenguajes y entornos  
-- 🚀 Interés en el desarrollo móvil, backend y sistemas  
-- 📚 En constante aprendizaje
+##  Sobre mí
+-  Formación en desarrollo de aplicaciones multiplataforma  
+-  Experiencia con varios lenguajes y entornos  
+-  Interés en el desarrollo móvil, backend y sistemas  
+-  En constante aprendizaje
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-### 📱 Desarrollo móvil
+###  Desarrollo móvil
 - **Kotlin**
 - **Android Studio**
 - **Jetpack Compose**
 
-### 🖥️ Programación general
+###  Programación general
 - **Python**  
 - **JavaScript**  
 - **HTML5 y CSS**   
 
-### 🗄️ Bases de datos
+###  Bases de datos
 - **MySQL**   
 
-### 🛠️ Herramientas y entornos
+###  Herramientas y entornos
 - **IntelliJ IDEA**   
 - **Administración de sistemas**  
 
 ---
 
-## 📂 Proyectos destacados
+##  Proyectos destacados
 
-### 🔹 **Seart**(https://github.com/thefancho/Seart)
+###  **Seart**(https://github.com/thefancho/Seart)
 Aplicación Android tipo red social para conectar artistas con clientes.  
 Permite registro de artistas, portafolios, filtros de búsqueda y sistema de comunicación.  
 Tecnologías: Kotlin, Jetpack Compose, Firebase.
 
-👉 *Más proyectos se irán añadiendo próximamente.*
+ *Más proyectos se irán añadiendo próximamente.*
 
 ---
 
