@@ -46,9 +46,9 @@ Tecnologías: Kotlin, Jetpack Compose, Firebase.
 
 ---
 
-## 📫 Contacto
-- 📧 **Correo:** thefancho2@gmail.com  
-- 📱 **Teléfono:** +34 687 22 29 56  
+##  Contacto
+-  **Correo:** thefancho2@gmail.com  
+-  **Teléfono:** +34 687 22 29 56  
 
 ---
 
