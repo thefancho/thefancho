@@ -1,8 +1,6 @@
 #  ¡Hola! Soy Ignacio Diaz Merino
 
-Tengo 24 años y soy **desarrollador de aplicaciones multiplataforma**.  
-Me considero una persona **organizada, trabajadora, versátil, paciente y puntual**.  
-Me apasiona la tecnología y siempre estoy dispuesto a aprender cosas nuevas.
+Me llamo Ignacio, tengo 25 años y soy desarrollador de aplicaciones multiplataforma. Manejo varios lenguajes de programación, sobre todo Java, JavaScript y Kotlin. Organizado, trabajador, versátil, paciente y puntual. Apasionado de la tecnología. Dispuesto a aprender.
 
 ---
 
